@@ -1,0 +1,23 @@
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.Properties.Resources.resources
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.csproj.GenerateResource.Cache
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\BalanceSheetUtility.exe
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\BalanceSheetUtility.pdb
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.exe
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.pdb
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\BalanceSheetUtility.exe.config
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\CoralDBE.dll
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\CoralService.dll
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.csprojResolveAssemblyReference.cache
+F:\Repository\WebSite\trunk\SOURCECODE-01102014\SVN -Sierratel\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.BalanceSheetUtility.resources
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\BalanceSheetUtility.exe.config
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\BalanceSheetUtility.exe
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\BalanceSheetUtility.pdb
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\CoralDBE.dll
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\bin\Debug\CoralService.dll
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.BalanceSheetUtility.resources
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.Properties.Resources.resources
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.exe
+C:\Documents and Settings\Amit Sharma\Desktop\BalanceSheetUtility\BalanceSheetUtility\obj\x86\Debug\BalanceSheetUtility.pdb
